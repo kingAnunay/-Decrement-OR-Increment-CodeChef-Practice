@@ -1,3 +1,5 @@
+  // SECOND QUESTION
+  // DECREMENT OR INCREMENT 
 #include <iostream>
 using namespace std;
 
